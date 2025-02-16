@@ -20,7 +20,7 @@ To run these programs, you need:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/ajay-verse/Turtle-Programs.git
+   git clone https://github.com/satya-ajayy/Turtle-Programs.git
    cd Turtle-Programs
    ```
 2. **Run a Program**:
